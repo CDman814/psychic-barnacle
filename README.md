@@ -1,2 +1,0 @@
-# psychic-barnacle
-Foxtrot
