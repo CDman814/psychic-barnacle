@@ -1,10 +1,8 @@
 $(document).ready(function () {
   console.log("doc is ready");
-  alert('yo');
-  // $
-  //   ("#buttonCount").click(function (){
+  // alert('yo');
 
-  //     console.log('you clicked the button');
+  // Counts and outputs number of times clicked
     $('#buttonCount').click( function(){
       var counter = 0;
       counter++;
@@ -13,7 +11,3 @@ $(document).ready(function () {
       } );
     } )
     
-
-    // });
-
-// })
